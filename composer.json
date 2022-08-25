@@ -1,0 +1,21 @@
+{
+    "name": "rpcclient/rpcclient",
+    "type": "library",
+	"version":"1.0.0",
+    "require": {
+        "php": ">=7.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rpcclient\\Rpcclient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wangyb1129",
+            "email": "1765774435@qq.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
